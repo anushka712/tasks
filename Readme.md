@@ -11,7 +11,7 @@ This repository contains the tasks for the Frontend Internship. Follow the instr
 1. **Clone the Repository**:
    - Run the following command to clone the repository:
      ```bash
-     git clone [insert repository link here]
+     git clone https://github.com/anushka712/tasks.git
      ```
 
 2. **Navigate to Task 1 Folder**:
