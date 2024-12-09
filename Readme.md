@@ -1,10 +1,4 @@
-# Frontend Internship Task
-
 ## Task Overview
-
-This repository contains the tasks for the Frontend Internship. Follow the instructions below to complete each task.
-
-## Task Instructions
 
 ### Task 1: UI Clone
 
